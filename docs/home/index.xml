@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Hermann Mogiz Delgado</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Hermann Mogiz Delgado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Super Site</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>Aqui existe um exemplo de compilado de arquivos markdown site estático criado pelo e organizado pelo HUGO software 🐒</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Olá, eu sou Hermann Delgado, graduando em estatística pela UFPR. Nascido em Brasília porém cresci em Curitiba, tenho vários interesses na teoria de probabilidade porém acabei me apaixonando por outras áreas ao começar a &amp;ldquo;redescobrir&amp;rdquo; a estatística.
+Theme est in basi, sicut scriptum est in serie computatio disjunctim et Phrases Latine. Ego tulit ad libertatem simul ad facere sed sine ulla admonitus poetica.</description>
+    </item>
+    
+    <item>
+      <title>Formação Acadêmica</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiência Profissional</title>
+      <link>/home/posts/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description>Em 2017 participei do Programe de Educalçao Tutorial do curso de Estatística, entre maio e setembro de 2017, e tive a oportunidade de ajudar na organização da Feira de Profissões e Semana Acadêmica de Estatística. Como projeto do PET, iniciei uma pesquisa em TRI porém não obtive sucesso estabelecer apenas um construto como variável reposta da pesquisa, e acabei por desistir da mesma.</description>
+    </item>
+    
+    <item>
+      <title>Formação Complementar</title>
+      <link>/home/projects/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description>Estudo piano, e além de hobbie considero um cuidado com minha saúde. Um pianista ativo sempre será um estudante, pois ele sempre estará aprendendo novas peças o que reduz o risco de desenvolvimento de alguma demência. Planejo encontrar um orientador para o meu TCC, que pode ser algo relacionando os conhecimentos adiquiridos na matéria &amp;ldquo;estatística computacional II&amp;rdquo; com a matéria &amp;ldquo;Teoria do Risco&amp;rdquo;. Gosto de jogos eletrônicos sendo &amp;ldquo;Undertale&amp;rdquo; o umtímo que eu joguei e recomendo para quem se interessa em role playing game.</description>
+    </item>
+    
+    <item>
+      <title>Habilidades</title>
+      <link>/home/teaching/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Informação útil para saber se você deve entrar em contato comigo. 🚀
+Uma lista das minhas habilidades:
+ Programação em R software Conhecimento em Mark Down Conhecimento em $\rm \LaTeX$ Inglês nível B2  </description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>/home/contact/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
